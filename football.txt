@@ -1,4 +1,5 @@
-Premier League and la liga:
+Premier League, la liga and Bundesliga:
+Bayern Munich
 Liverpool
 Man City
 Barcelona
@@ -6,6 +7,7 @@ Real Madrid
 Valencia
 Man Utd
 Chelsea
+Dortmund
 Leicter City
 Wolves
-These are the top 9 teams of 2019-20.
+These are the top 11 teams of 2019-20.
