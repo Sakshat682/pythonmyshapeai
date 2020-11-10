@@ -1,8 +1,11 @@
-Premier League:
+Premier League and la liga:
 Liverpool
 Man City
+Barcelona
+Real Madrid
+Valencia
 Man Utd
 Chelsea
 Leicter City
 Wolves
-These are the top 5 teams of 2019-20.
+These are the top 9 teams of 2019-20.
